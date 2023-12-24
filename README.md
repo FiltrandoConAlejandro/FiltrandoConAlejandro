@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FiltrandoConAlejandro
 - 👀 I’m interested in automating solutions 
 - 🌱 I’m currently learning C#         
--💞️ I am seeking opportunities for collaboration on automation projects involving Excel or AutoCAD.
+- 💞️ I am seeking opportunities for collaboration on automation projects involving Excel or AutoCAD
 
 
 <!---
